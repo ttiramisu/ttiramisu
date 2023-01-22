@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JIN-ZIJIE, otherwise known as JJ Jin. I'm a new coder. 
+- 👋 Hi, I’m @JIN-ZIJIE, otherwise known as JJ Jin. I'm a new programmer. 
 - 🌱 I’m currently learning Python. Plan to learn HTML and CSS as well.
 
 <!---
