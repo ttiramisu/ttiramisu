@@ -6,7 +6,12 @@ JIN-ZIJIE/JIN-ZIJIE is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<br>
+<br>
 <p align="center"> 
-  Visitor count<br>
+  Visitor count
+  <br>
+  <br>
+  <br>
   <img src="https://profile-counter.glitch.me/JIN-ZIJIE/count.svg" />
 </p>
