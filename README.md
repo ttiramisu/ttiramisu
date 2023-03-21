@@ -7,8 +7,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=JIN-ZIJIE&count_private=true&show_icons=true&theme=onedark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIN-ZIJIE&count_private=true&show_icons=true&theme=onedark&layout=compact" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=JIN-ZIJIE&count_private=true&show_icons=true&theme=onedark" />
   <br>
   <br>
   Visitor count
