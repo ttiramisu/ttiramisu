@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=JIN-ZIJIE&count_private=true&show_icons=true&theme=onedark" />
   <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JIN-ZIJIE7&theme=dark&hide_border=true"/>
+  <br>
   <br>
   Visitor count
   <br>
