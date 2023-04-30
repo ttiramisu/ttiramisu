@@ -1,13 +1,15 @@
 <h1 align="center">JJ JIN</h1>
-<!---
-JIN-ZIJIE/JIN-ZIJIE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+<br>
+<br>
+<div align="center">
+  <h2 align="center"><i>#UKRAINE</i></h2>
+  <img src="https://cdn.britannica.com/14/4814-004-7C0DF1BB/Flag-Ukraine.jpg" align="middle" width="300px" height="200px"/>
+</div>
 <br>
 <br>
 <div align="center"> 
   <h2>Languages</h2>
+  <hr>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIN-ZIJIE&count_private=true&show_icons=true&theme=onedark&layout=compact" align="middle"/>
   <br>
@@ -23,7 +25,4 @@ You can click the Preview link to take a look at your changes.
   Visitor count
   <br>
   <img src="https://profile-counter.glitch.me/JIN-ZIJIE/count.svg" />
-  
-  
-  <h1><i>#UKRAINE</i></h1>
 </div>
