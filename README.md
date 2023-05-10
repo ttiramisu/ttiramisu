@@ -9,7 +9,6 @@
 <br>
 <div align="center"> 
   <h2>Languages</h2>
-  <hr>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIN-ZIJIE&count_private=true&show_icons=true&theme=onedark&layout=compact" align="middle"/>
   <br>
