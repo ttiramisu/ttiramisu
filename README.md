@@ -27,4 +27,4 @@
 
 <h2>📈  My GitHub Stats!</h2>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ttiramisu/ttiramisu/blob/output/github-contribution-grid-snake.svg)
