@@ -5,7 +5,7 @@ I'm a passionate **leader** and **web developer** who loves building innovative 
 
 ## 🔧 Technologies & Tools
 - **Backend:** Python (Flask)
-- **Databases:** Firebase, MongoDB
+- **Databases:** Firebase
 - **Other Tools:** Vercel, Git, Web Scraping (Scrapy)
 
 ## 📌 Current Focus
