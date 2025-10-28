@@ -1,4 +1,4 @@
-# Hi there, I'm Jin Zijie! 👋
+# Hi there, I'm ttiramisu 👋
 
 ## 🚀 About Me
 I'm a passionate **leader** and **web developer** who loves building innovative solutions, especially in **web development** and **web crawlers**. I enjoy solving challenging problems and continuously improving my skills.
@@ -14,7 +14,7 @@ I'm a passionate **leader** and **web developer** who loves building innovative 
 
 ## 📫 Let's Connect!
 - 🌐 [Portfolio](https://jin-zijie.vercel.app)
-- 💼 [LinkedIn](#www.linkedin.com/in/jin-zijie)
+- 💼 [LinkedIn](https://linkedin.com/in/jin-zijie)
 - 📧 [ttiramisu10@gmail.com](mailto:ttiramisu10@gmail.com)
 
 💡 Always open to exciting collaborations and new opportunities!
