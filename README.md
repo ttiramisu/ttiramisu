@@ -1,21 +1,26 @@
-# Hi there, I'm ttiramisu 👋
+# Hi, I'm **ttiramisu** 👋
 
 ## 🚀 About Me
-I'm a passionate **leader** and **web developer** who loves building innovative solutions, especially in **web development** and **web crawlers**. I enjoy solving challenging problems and continuously improving my skills.
+Developer, leader, and problem-solver who loves building fast, clean, and impactful digital experiences.  
+I work across **web development**, **React apps**, and even **Publicise event**.
 
-## 🔧 Technologies & Tools
+## 🔧 Tech Stack
+- **Frontend:** React, Vite, TypeScript, Tailwind, Bootstrap  
 - **Backend:** Python (Flask)
-- **Databases:** Firebase
-- **Other Tools:** Vercel, Git, Web Scraping (Scrapy)
+- **Database:** Firebase
+- **Other:** Vercel, Git
 
-## 📌 Current Focus
-- Leading and developing projects for **hackathons** 🚀
-- Building and deploying apps on **Vercel** 🌍
+## 📌 What I Do
+- Build dynamic websites & landing pages  
+- Lead and create hackathon projects  
+- Develop tools and mini-apps  
 
-## 📫 Let's Connect!
-- 🌐 [Portfolio](https://jin-zijie.vercel.app)
-- 💼 [LinkedIn](https://linkedin.com/in/jin-zijie)
-- 📧 [ttiramisu10@gmail.com](mailto:ttiramisu10@gmail.com)
+## 🌱 Beyond Code
+I contribute to community initiatives like **Project Elevate**, mentoring and teaching underprivileged kids.
 
-💡 Always open to exciting collaborations and new opportunities!
+## 📫 Connect
+- 🌐 https://jin-zijie.vercel.app  
+- 💼 https://linkedin.com/in/jin-zijie  
+- 📧 ttiramisu10@gmail.com  
 
+✨ *Always exploring new ideas and open to collaborations.*
